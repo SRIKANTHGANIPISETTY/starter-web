@@ -13,5 +13,5 @@ Yes True! It's really nice.
  Can be deployed on any host server or any file storage server
 
 ## How to Contribute
-
+  Just like that
 
