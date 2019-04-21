@@ -15,3 +15,5 @@ Yes True! It's really nice.
 ## How to Contribute
   Just like that
 
+## Copy Right
+   2019 @Srikanth Ganipisetty
