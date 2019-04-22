@@ -6,8 +6,7 @@ by Srikanth Ganipisetty
 
 ## Purpose
 
-Sample website with plenty of files for demos
-Yes True! It's really nice.
+Sample website with plenty of files for demos.
 
 ## Deployment
  Can be deployed on any host server or any file storage server
