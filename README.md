@@ -13,7 +13,8 @@ Yes True! It's really nice.
  Can be deployed on any host server or any file storage server
 
 ## How to Contribute
-  Just like that
+  Please fork this repository and then issue pull requests to review.
+
 
 ## Copy Right
    2019 @Srikanth Ganipisetty
