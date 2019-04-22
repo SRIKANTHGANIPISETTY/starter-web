@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding a line 
+for rebasing and checking for merge back into master
 
 by Srikanth Ganipisetty		
 
